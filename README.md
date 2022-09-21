@@ -3,6 +3,7 @@
 
 ## Algumas coisas sobre mim🙋🏽‍♂️
 <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/775114564991713290/1021910766082863205/Happy_black_boy_invert.jpg?width=676&height=676">
+
  - 📚 Eu gosto muito de estudar SQL, Java e Python
  
  - 💡 Eu sempre procuro deixar os meus projetos o mais criativos possíveis
@@ -22,7 +23,7 @@
 
 <br><br>
 
-## Meus status no github 🔥🔥
+## Minhas estatísticas de atividade no github 🔥🔥
 <div align="center">
 	<a href="https://github.com/DiogoWorkGit">
 		<img alt="Diogo Sequencia" src="https://github-readme-streak-stats.herokuapp.com?user=DiogoWorkGit&theme=vue&hide_border=true&border_radius=30&locale=pt-br&date_format=n%2Fj%5B%2FY%5D&background=000000&dates=95DDC5&stroke=000000"/>
