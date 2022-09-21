@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋🏽, meu nome é Diogo</h1>
-<h3 align="center">Gosto muito de estudar sobre programação 💻, ainda mais sobre temas como ciência de dados e banco de dados 😄</h3>
+<h3 align="center">Gosto muito de estudar sobre programação 💻, ainda mais sobre temas como ciência de dados, banco de dados e desenvolvimento de sistemas 😄</h3>
 
 ## Algumas coisas sobre mim🙋🏽‍♂️
 <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/775114564991713290/1021910766082863205/Happy_black_boy_invert.jpg?width=676&height=676">
