@@ -9,18 +9,7 @@
 
  - 🌙 1000% mais produtivo a noite
 
-###
-
-## Meus status no github
-<div align="center">
-    <a href="https://github.com/DiogoWorkGit">
-        <img alt="Diogo Sequencia" src="https://github-readme-streak-stats.herokuapp.com?user=DiogoWorkGit&theme=vue&hide_border=true&border_radius=30&locale=pt-br&date_format=n%2Fj%5B%2FY%5D&background=000000&dates=95DDC5&stroke=000000"/>
-        <img alt="Diogo Status" height="200em" src="https://github-readme-stats.vercel.app/api?username=diogoworkgit&show_icons=true&theme=vue&&hide_border=true&border_radius=30&bg_color=000000&text_color=95DDC5&include_all_commits=true&count_private=true&locale=pt-br"/>
-        <img alt="Diogo Linguagens" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoworkgit&layout=compact&langs_count=7&theme=vue&text_color=95DDC5&custom_title=Minhas principais linguagens"/>
-    </a>
-</div>
-
-## Algumas das lingagens que eu uso
+## Algumas das lingagens que eu costumo usar 📚 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,5 +19,24 @@
     <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
-##
+
+<br><br>
+
+## Meus status no github 🔥🔥
+<div align="center">
+	<a href="https://github.com/DiogoWorkGit">
+		<img alt="Diogo Sequencia" src="https://github-readme-streak-stats.herokuapp.com?user=DiogoWorkGit&theme=vue&hide_border=true&border_radius=30&locale=pt-br&date_format=n%2Fj%5B%2FY%5D&background=000000&dates=95DDC5&stroke=000000"/>
+	</a>
+</div>
+<br> 
+<div align="center">
+	<a href="https://github.com/DiogoWorkGit">
+		<img alt="Diogo Status" height="200em" src="https://github-readme-stats.vercel.app/api?username=diogoworkgit&show_icons=true&theme=vue&&hide_border=true&border_radius=30&bg_color=000000&text_color=95DDC5&include_all_commits=true&count_private=true&locale=pt-br"/>
+	</a>
+</div>
+<br>  
+<div align="center">
+    <a href="https://github.com/DiogoWorkGit">
+        <img alt="Diogo Linguagens" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoworkgit&layout=compact&langs_count=7&theme=vue&text_color=95DDC5&bg_color=000000&custom_title=Linguagens"/>
+    </a>
+</div>
