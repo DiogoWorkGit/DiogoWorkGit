@@ -10,7 +10,7 @@
 
  - 🌙 1000% mais produtivo a noite
 
-## Algumas das lingagens que eu costumo usar 📚 
+## Algumas das linguagens que eu costumo usar 📚 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
