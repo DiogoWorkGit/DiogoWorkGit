@@ -38,6 +38,6 @@
 <br>  
 <div align="center">
     <a href="https://github.com/DiogoWorkGit">
-        <img alt="Diogo Linguagens" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoworkgit&layout=compact&langs_count=7&theme=vue&hide_border=true&text_color=95DDC5&bg_color=000000&custom_title=Linguagens"/>
+        <img alt="Diogo Linguagens" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoworkgit&layout=compact&langs_count=7&theme=vue&hide_border=true&border_radius=30&text_color=95DDC5&bg_color=000000&custom_title=Linguagens"/>
     </a>
 </div>
