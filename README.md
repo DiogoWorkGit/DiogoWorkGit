@@ -8,7 +8,7 @@
  
  - 💡 Eu sempre procuro deixar os meus projetos o mais criativos possíveis
 
- - 🌙 1000% mais produtivo a noite
+ - 🌙 100% mais produtivo a noite
 
 ## Algumas das linguagens que eu costumo usar 📚 
 
@@ -30,14 +30,5 @@
 	</a>
 </div>
 <br> 
-<div align="center">
-	<a href="https://github.com/DiogoWorkGit">
-		<img alt="Diogo Status" height="200em" src="https://github-readme-stats.vercel.app/api?username=diogoworkgit&show_icons=true&theme=vue&&hide_border=true&border_radius=30&bg_color=000000&text_color=95DDC5&include_all_commits=true&count_private=true&locale=pt-br"/>
-	</a>
-</div>
-<br>  
-<div align="center">
-    <a href="https://github.com/DiogoWorkGit">
-        <img alt="Diogo Linguagens" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoworkgit&layout=compact&langs_count=7&theme=vue&hide_border=true&border_radius=30&text_color=95DDC5&bg_color=000000&custom_title=Linguagens"/>
-    </a>
+
 </div>
