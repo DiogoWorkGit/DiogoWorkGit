@@ -4,7 +4,7 @@
 ## Algumas coisas sobre mim🙋🏽‍♂️
 <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/775114564991713290/1021910766082863205/Happy_black_boy_invert.jpg?ex=65e79c90&is=65d52790&hm=c8be45db9617443cd407c98b0ab6dfdb99a1deb9d54448316a219bca5fff54be&?width=676&height=676">
 
- - 📚 Eu gosto muito de estudar SQL, Java e Python
+ - 📚 Eu gosto muito de estudar SQL e Python 
  
  - 💡 Eu sempre procuro deixar os meus projetos o mais criativos possíveis
 
